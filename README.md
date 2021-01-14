@@ -1,2 +1,2 @@
-# Admin-Crud
+# Laravel Admin Platforms
 in master branch
